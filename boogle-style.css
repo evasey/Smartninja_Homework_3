@@ -1,0 +1,66 @@
+
+
+.font {
+    font-family: "verdana";
+    font-weight: thin;
+    color: grey;
+}
+
+.font1 {
+    color: DodgerBlue;
+    font-size: small;
+}
+
+.font2 {
+    text-align: right;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+   text-align: center;
+}
+
+.window {
+    background-color: WhiteSmoke;
+    height: -100px;
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px groove lightgrey;
+}
+
+.emailfenster {
+    margin: 0 auto;
+    width: 200px;
+    margin-left: -70px;
+    background-color: LemonChiffon;
+    height: 20px;
+}
+
+.password {
+    margin: 0 auto;
+    margin-left: -70px;
+    width: 200px;
+    height: 20px;
+}
+
+.fixed {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    border-top: 1px groove snow;
+    background-color: white;
+    color: grey;
+}
+
